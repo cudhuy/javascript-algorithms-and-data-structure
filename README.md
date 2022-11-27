@@ -250,8 +250,8 @@ Dưới đây là danh sách một số ký hiệu Big O được sử dụng nh
 | **Counting sort**     | n + r           | n + r               | n + r               | n + r     | Yes       | r - biggest number in array |
 | **Radix sort**        | n * k           | n * k               | n * k               | n + k     | Yes       | k - length of longest key |
 
-### Liên kết
+## YouTube
 
 [▶ Data Structures and Algorithms on YouTube](https://www.youtube.com/playlist?list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8)
 
-[Repostiry gốc](https://github.com/trekhleb/javascript-algorithms)
+[▶ Repostiry gốc](https://github.com/trekhleb/javascript-algorithms)
